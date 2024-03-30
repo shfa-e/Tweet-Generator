@@ -10,7 +10,7 @@ This is a simple web app that uses OpenAI to generate tweets based on user input
 
 ## Installation
 1. Clone this repository:
-`git clone https://github.com/YOUR-USERNAME/tweet-generator.git`
+`git clone https://github.com/shfa-e/tweet-generator.git`
 2. Install the required Python packages:
 `pip install openai streamlit`
 3. Set up your OpenAI API key by following the instructions on the [OpenAI website](https://platform.openai.com/docs/api-reference/authentication).
